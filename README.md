@@ -25,9 +25,12 @@
 * Set 1 - **Flappy**
 * Set 2 - **Gauss**
 * Set 3 - **Kkoa**
-* Set 4
-* Set 5
-* Set 6
+* Set 4 - **Aalover**
+* Set 5 - **Baeyr**
+* Set 6 - **Ancepot**
+* Set 7
+* Set 8
+* Set 9
 
 ## Legacy Sets
 * [Vol 1](https://github.com/pixels-holder1/PixelBetaSet1)
