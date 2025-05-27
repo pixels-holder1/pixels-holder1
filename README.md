@@ -23,8 +23,8 @@
 > **Volume 5 is TBD and still in progress**
 
 * Set 1 - **Han-u**
-* Set 2 - **Flappy**
-* Set 3 - **Baeyr**
+* Set 2 - **Baeyr**
+* Set 3 - **Flappy**
 * Set 4 - **Aalover**
 * Set 5 - **Gauss**
 * Set 6 - **Kkoa**
