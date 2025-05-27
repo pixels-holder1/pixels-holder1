@@ -22,15 +22,16 @@
 > [!IMPORTANT]
 > **Volume 5 is TBD and still in progress**
 
-* Set 1 - **Flappy**
-* Set 2 - **Gauss**
-* Set 3 - **Kkoa**
+* Set 1 - **Han-u**
+* Set 2 - **Flappy**
+* Set 3 - **Baeyr**
 * Set 4 - **Aalover**
-* Set 5 - **Baeyr**
-* Set 6 - **Ancepot**
-* Set 7
+* Set 5 - **Gauss**
+* Set 6 - **Kkoa**
+* Set 7 - **Ancepot**
 * Set 8
 * Set 9
+* Set 10
 
 ## Legacy Sets
 * [Vol 1](https://github.com/pixels-holder1/PixelBetaSet1)
