@@ -16,7 +16,7 @@
 
 ## Vol 4 Misc Sets
 * [Vol 4.1](https://github.com/pixels-holder1/filedataset-v4.1)
-* [Vol 4.2](https://github.com/pixels-holder1/filedataset-v4.1)
+* [Vol 4.2](https://github.com/pixels-holder1/pixelset4.2)
 
 ## Vol 5 Sets
 > [!IMPORTANT]
