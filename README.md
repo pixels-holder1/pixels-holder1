@@ -33,6 +33,4 @@
 * [Vol 1](https://github.com/pixels-holder1/PixelBetaSet1)
 * [Vol 2](https://github.com/pixels-holder1/PixelBetaSet2)
 * [Vol 3](https://github.com/pixels-holder1/PixelBetaSet3)
-
-## Legacy Sets
-* [Legacy](https://github.com/RanxwareSoftworks/pixels)
+* [Legacy Archive](https://github.com/RanxwareSoftworks/pixels)
