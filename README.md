@@ -1,16 +1,38 @@
-## Hi there 👋
+# Pixel Data Directory
 
-<!--
-**pixels-holder1/pixels-holder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!NOTE]
+> This account is used to hold extracted pixel data from images with a private, closed-source module
 
-Here are some ideas to get you started:
+# Pixel Data Sets
+## Vol 4 Sets
+* [Set 1 - **Anatto**](https://github.com/pixels-holder1/PixelSet1)
+* [Set 2 - **Borv**](https://github.com/pixels-holder1/PixelSet2)
+* [Set 3 - **Plunder**](https://github.com/pixels-holder1/PixelSet3)
+* [Set 4 - **Sinen**](https://github.com/pixels-holder1/PixelSet4)
+* [Set 5 - **Miso**](https://github.com/pixels-holder1/PixelSet5)
+* [Set 6 - **Jinu**](https://github.com/pixels-holder1/PixelSet6)
+* [Set 7 - **Ihcar**](https://github.com/pixels-holder1/PixelSet7)
+* [Set 8 - **QVQ**](https://github.com/pixels-holder1/PixelSet8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Vol 4 Misc Sets
+* [Vol 4.1](https://github.com/pixels-holder1/filedataset-v4.1)
+* [Vol 4.2](https://github.com/pixels-holder1/filedataset-v4.1)
+
+## Vol 5 Sets
+> [!IMPORTANT]
+> **Volume 5 is TBD and still in progress**
+
+* Set 1 - **Flappy**
+* Set 2 - **Gauss**
+* Set 3 - **Kkoa**
+* Set 4
+* Set 5
+* Set 6
+
+## Legacy Sets
+* [Vol 1](https://github.com/pixels-holder1/PixelBetaSet1)
+* [Vol 2](https://github.com/pixels-holder1/PixelBetaSet2)
+* [Vol 3](https://github.com/pixels-holder1/PixelBetaSet3)
+
+## Legacy Sets
+* [Legacy](https://github.com/RanxwareSoftworks/pixels)
