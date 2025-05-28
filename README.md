@@ -5,14 +5,14 @@
 
 # Pixel Data Sets
 ## Vol 4 Sets
-* [Set 1 - **Anatto**](https://github.com/pixels-holder1/PixelSet1)
-* [Set 2 - **Borv**](https://github.com/pixels-holder1/PixelSet2)
-* [Set 3 - **Plunder**](https://github.com/pixels-holder1/PixelSet3)
-* [Set 4 - **Sinen**](https://github.com/pixels-holder1/PixelSet4)
-* [Set 5 - **Miso**](https://github.com/pixels-holder1/PixelSet5)
-* [Set 6 - **Jinu**](https://github.com/pixels-holder1/PixelSet6)
-* [Set 7 - **Ihcar**](https://github.com/pixels-holder1/PixelSet7)
-* [Set 8 - **QVQ**](https://github.com/pixels-holder1/PixelSet8)
+* ✅ [Set 1 - **Anatto**](https://github.com/pixels-holder1/PixelSet1)
+* ✅ [Set 2 - **Borv**](https://github.com/pixels-holder1/PixelSet2)
+* ✅ [Set 3 - **Plunder**](https://github.com/pixels-holder1/PixelSet3)
+* ❌ [Set 4 - **Sinen**](https://github.com/pixels-holder1/PixelSet4)
+* ❌ [Set 5 - **Miso**](https://github.com/pixels-holder1/PixelSet5)
+* ❌ [Set 6 - **Jinu**](https://github.com/pixels-holder1/PixelSet6)
+* ❌ [Set 7 - **Ihcar**](https://github.com/pixels-holder1/PixelSet7)
+* ❌ [Set 8 - **QVQ**](https://github.com/pixels-holder1/PixelSet8)
 
 ## Vol 4 Misc Sets
 * [Vol 4.1](https://github.com/pixels-holder1/filedataset-v4.1)
