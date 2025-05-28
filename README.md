@@ -29,7 +29,7 @@
 * Set 5 - **Gauss**
 * Set 6 - **Kkoa**
 * Set 7 - **Ancepot**
-* Set 8
+* Set 8 - **Xipa**
 * Set 9
 * Set 10
 
