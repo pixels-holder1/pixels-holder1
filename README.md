@@ -22,10 +22,10 @@
 > [!IMPORTANT]
 > **Volume 5 is TBD and still in progress**
 
-* ✅ [Set 1 - **Han-u**](https://github.com/pixels-holder1/PixelV5.1)
-* ✅ [Set 2 - **Baeyr**](https://github.com/pixels-holder1/PixelV5.2)
-* ❌ [Set 3 - **Flappy**](https://github.com/pixels-holder1/PixelV5.3)
-* ❌ [Set 4 - **Aalover**](https://github.com/pixels-holder1/PixelV5.4)
+* ✅ [Set 1 - **Han-u**](https://github.com/pixels-holder1/PixelsV5.1)
+* ✅ [Set 2 - **Baeyr**](https://github.com/pixels-holder1/PixelsV5.2)
+* ❌ [Set 3 - **Flappy**](https://github.com/pixels-holder1/PixelsV5.3)
+* ❌ [Set 4 - **Aalover**](https://github.com/pixels-holder1/PixelsV5.4)
 * ❌ Set 5 - **Gauss**
 * ❌ Set 6 - **Kkoa**
 * ❌ Set 7 - **Ancepot**
